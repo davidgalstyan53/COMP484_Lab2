@@ -1,0 +1,93 @@
+body
+{
+  background-color: black;
+  font-family: "Roboto", sans-serif;
+}
+
+#oldOrNew
+{
+  color: white;
+  text-align: center;
+  text-align: center;
+  margin: 25%;
+  padding: 5%;
+  font-family: "Roboto", sans-serif;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+#registerOrLogin
+{
+  width: 50%;
+  margin: auto;
+}
+
+#registerSection
+{
+  width: 50%;
+  margin: auto;
+  display: none;
+}
+
+#registerForm
+{
+  text-align: center;
+  margin: 25%;
+  padding: 5%;
+}
+
+#registerBox input, button
+{
+  font-family: "Roboto", sans-serif;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 20px;
+  padding: 5px;
+
+}
+
+#registerBox button
+{
+  cursor: pointer;
+}
+
+#loginSection
+{
+  width: 50%;
+  margin: auto;
+  display: none;
+}
+
+#loginForm
+{
+  text-align: center;
+  margin: 25%;
+  padding: 5%;
+}
+
+#loginBox input, button
+{
+  font-family: "Roboto", sans-serif;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#loginBox button
+{
+  cursor: pointer;
+}
+
+#welcomeNewUser, #welcomeBackUser
+{
+  color: white;
+  font-size: 20px;
+}
+
+
+button
+{
+  cursor: pointer;
+}
